@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="d20fdd47-9be5-442e-af69-87924e486cc0" expiration="2019-08-17T00:00:00.0000000" type="Trial" prof="nhprof" version="5" updatesExpiration="2019-Aug-17">
+  <name>Abbas Larji</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>NCBvMiOasN4K2xoJkitqDxZew9s=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>aRzV5mxKxHhrXIwiPx3glEU/dvHH4aRjOJZo9gS/CM+mdZ3scGgybocLG03ZyHFoNrn5YGgtH7ILN4S2kDyuiqPvMj0zECalJvuqzGdqibXE3hS6KySgQz4vCx8idwDMuhPfeQbtvC0wIeUlz4PiwWr2BGjEL+z+3rBX3M3clbM=</SignatureValue>
+  </Signature>
+</license>
